@@ -1,1 +1,1 @@
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="/estruturas de pastas.png" alt="estruturas de pastas">
