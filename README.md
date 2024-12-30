@@ -1,4 +1,4 @@
-import cv2
+[[import cv2
 
 # Carregar os modelos pré-treinados
 proto_file = "colorization_deploy_v2.prototxt"
@@ -44,3 +44,4 @@ cv2.imshow("Colorized", colorized)
 cv2.imwrite("imagem_colorida.jpg", colorized)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+](https://gist.github.com/natanaelgsneto/de59bdf506fe2a7db50d621aff968d56)](https://gist.github.com/natanaelgsneto/de59bdf506fe2a7db50d621aff968d56)
